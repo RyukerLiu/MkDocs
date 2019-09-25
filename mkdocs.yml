@@ -2,6 +2,6 @@ site_name: My MkDocs
 nav:
     - Home: index.md
     - Out: 
-      - TestWeb1: my1.md
-      - TestWeb2: my2.md
+      - WebhookIsCool1: my1.md
+      - WebhookIsColl2: my2.md
 theme: readthedocs
