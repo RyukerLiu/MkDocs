@@ -2,6 +2,6 @@ site_name: My MkDocs
 nav:
     - Home: index.md
     - Out: 
-      - Nest1: my1.md
-      - Nest2: my2.md
+      - TestWeb1: my1.md
+      - TestWeb2: my2.md
 theme: readthedocs
