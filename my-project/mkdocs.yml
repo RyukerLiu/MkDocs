@@ -1,7 +1,6 @@
 site_name: My MkDocs
 nav:
     - Home: index.md
-    - About: about.md
     - Out: 
       - Nest1: my1.md
       - Nest2: my2.md
