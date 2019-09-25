@@ -1,6 +1,8 @@
 # [MkDocs](https://ryukerliu.github.io/MkDocs/)
 
-[GitHub Project Page with MkDocs](https://ryukerliu.github.io/MkDocs/)
+[Deploy on GitHub Project Page with MkDocs](https://ryukerliu.github.io/MkDocs/)
+
+[Deploy on Read the Docs with MkDocs](https://ryukers-read-the-docs.readthedocs.io/en/latest/)
 
 ## Install
 
