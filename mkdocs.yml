@@ -3,5 +3,5 @@ nav:
     - Home: index.md
     - Out: 
       - WebhookIsCool1: my1.md
-      - WebhookIsColl2: my2.md
+      - WebhookIsCool2: my2.md
 theme: readthedocs
