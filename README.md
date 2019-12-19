@@ -8,7 +8,7 @@
 
 `pip install mkdocs`
 
-## Start Project
+## Start New Project
 
 ```bash
 mkdocs new my-project
