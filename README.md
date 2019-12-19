@@ -6,7 +6,7 @@
 
 ## Install
 
-`pipenv install mkdocs`
+`pip install mkdocs`
 
 ## Start Project
 
